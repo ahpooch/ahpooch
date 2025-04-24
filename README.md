@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/ahpooch_logo_purple.png" />
+
+### GitHub Stats
+<p align="left"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/github-metrics.svg" /></p>
 
 #### 👷 What I'm currently working on
 
