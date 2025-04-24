@@ -5,8 +5,8 @@ on:
   push: # start on push to main
     branches:
       - main
-  #schedule: # start every 4 hours
-  #  - cron: '0 */4 * * *' 
+  schedule: # start every 4 hours
+    - cron: '0 */4 * * *' 
 
 jobs:
   readme-scribe: # markscribe github action
@@ -16,10 +16,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        #with:
-        #  ref: main
       
-      #- uses: muesli/readme-scribe@master
       - name: Generate README.md ussing readme-scribe
         uses: muesli/readme-scribe@master
         env:
