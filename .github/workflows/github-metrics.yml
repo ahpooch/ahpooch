@@ -1,0 +1,66 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: github-metrics # Generation of 
+
+on:
+    workflow_dispatch: # allow to run manually
+    push: # start on push to main
+      branches:
+        - main
+    schedule: # start every 4 hours
+      - cron: '0 9 * * *'
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: metrics-update
+      cancel-in-progress: true
+    steps:
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
+      - uses: lowlighter/metrics@latest
+        with:
+          # Permissions for GitHub token creation
+          #  - public_repo
+          #  - read:user (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - read:org (for organization related metrics)
+          #  - repo (optional, if you want to include private repositories)
+          # After creation, place token at repository Actions secrets, named METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Setting reference https://github.com/lowlighter/metrics/blob/master/action.yml
+          user: ahpooch
+          filename: github-metrics.svg
+          template: classic
+          # Base plugin reference https://github.com/lowlighter/metrics/blob/master/source/plugins/base/README.md
+          # header, which usually contains username, two-weeks commits calendars and a few additional data
+          # activity, which contains recent activity (commits, pull requests, issues, etc.)
+          # community, which contains community stats (following, sponsors, organizations, etc.)
+          # repositories, which contains repository stats (license, forks, stars, etc.)
+          # metadata, which contains information about generated metrics
+          # These are all enabled by default, but it is possible to explicitly opt out from them.
+          base: header, activity, repositories, metadata # community
+          config_timezone: Europe/Minsk #Etc/GMT+3
+          # Plugin gists parameters. Reference https://github.com/lowlighter/metrics/tree/master/source/plugins/gists
+          plugin_gists: yes
+          # Plugin habits parameters. Reference https://github.com/lowlighter/metrics/tree/master/source/plugins/habits
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          # Plugin Isometric commit calendar (isocalendar). Reference https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # Plugin wakatime. Reference https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
+          plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
+          plugin_wakatime_days: 365
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
