@@ -1,31 +1,34 @@
-name: readme-scribe
+name: Update README.md using readme-scribe
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 */4 * * *'
-  push:
+  workflow_dispatch: # allow to run manually
+  schedule: # start every 4 hours
+    - cron: '0 */4 * * *' 
+  push: # start on push to main
     branches:
-      - 'main'
+      - ['main']
+
+#permissions: write-all
 
 jobs:
   readme-scribe:
     runs-on: ubuntu-latest
     steps:
-      -
-        name: Checkout
-        uses: actions/checkout@v4
-      -
-        uses: muesli/readme-scribe@master
+      - uses: actions/checkout@v4
+        #with:
+        #  ref: main
+      
+      #- uses: muesli/readme-scribe@master
+      - uses: stefanzweifel/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: templates/README.md.tpl
           writeTo: README.md
-      -
-        uses: stefanzweifel/git-auto-commit-action@v5
+      
+      - uses: stefanzweifel/git-auto-commit-action@v5
         env:
-          GITHUB_TOKEN: ${{ secrets.AUTOCOMMIT_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: 'Update generated README'
           branch: main
