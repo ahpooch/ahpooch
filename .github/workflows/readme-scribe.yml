@@ -2,16 +2,16 @@ name: Update README.md using readme-scribe
 
 on:
   workflow_dispatch: # allow to run manually
-  schedule: # start every 4 hours
-    - cron: '0 */4 * * *' 
   push: # start on push to main
     branches:
-      - ['main']
+      - main
+  #schedule: # start every 4 hours
+  #  - cron: '0 */4 * * *' 
 
 jobs:
   readme-scribe: # markscribe github action
     runs-on: ubuntu-latest
-    permissins:
+    permissions:
       contents: write
     steps:
       - name: Checkout repository
