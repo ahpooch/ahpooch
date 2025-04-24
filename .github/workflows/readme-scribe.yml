@@ -8,18 +8,20 @@ on:
     branches:
       - ['main']
 
-#permissions: write-all
-
 jobs:
-  readme-scribe:
+  readme-scribe: # markscribe github action
     runs-on: ubuntu-latest
+    permissins:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         #with:
         #  ref: main
       
       #- uses: muesli/readme-scribe@master
-      - uses: stefanzweifel/readme-scribe@master
+      - name: Generate README.md ussing readme-scribe
+        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
