@@ -38,7 +38,7 @@ jobs:
           # Setting reference https://github.com/lowlighter/metrics/blob/master/action.yml
           user: ahpooch
           filename: github-metrics.svg
-          config_display: large
+          config_display: column
           template: classic
           # Base plugin reference https://github.com/lowlighter/metrics/blob/master/source/plugins/base/README.md
           # header, which usually contains username, two-weeks commits calendars and a few additional data
