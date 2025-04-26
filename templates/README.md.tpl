@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/ahpooch_NeonCyberCrutces.jpeg" />
+<p align="center"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/ahpooch_NeonCyberCrutches.jpeg" />
 
 ### GitHub Stats
 <p align="left"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/github-metrics.svg" /></p>
