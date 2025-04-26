@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/ahpooch_NeonCyberCrutces.jpeg" />
+<p align="center"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/ahpooch_NeonCyberCrutches.jpeg" />
 
 ### GitHub Stats
 <p align="left"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/github-metrics.svg" /></p>
@@ -8,8 +8,8 @@
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (1 week ago)
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (1 month ago)
 - [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (1 month ago)
-- [ahpooch/FuncTelegramSender](https://github.com/ahpooch/FuncTelegramSender) - Mikrotik RouterOS script for transcoding and sending Telegram messages. (1 month ago)
-- [ahpooch/ahpooch.github.io](https://github.com/ahpooch/ahpooch.github.io) - Private blog powered by Jekyll and chirpy theme (1 month ago)
+- [ahpooch/FuncTelegramSender](https://github.com/ahpooch/FuncTelegramSender) - Mikrotik RouterOS script for transcoding and sending Telegram messages. (2 months ago)
+- [ahpooch/ahpooch.github.io](https://github.com/ahpooch/ahpooch.github.io) - Private blog powered by Jekyll and chirpy theme (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
