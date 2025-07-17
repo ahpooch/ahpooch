@@ -5,14 +5,13 @@
 
 #### 👷 What I'm currently working on
 
+- [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (today)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (1 day ago)
-- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (4 days ago)
+- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (1 day ago)
 - [ahpooch/DNSServerTools](https://github.com/ahpooch/DNSServerTools) -  (1 week ago)
-- [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (2 weeks ago)
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (2 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.0-preview0001](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.0-preview0001), 1 day ago) - Module template with build pipeline and examples, including DSC elements.
-- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.1-preview0008](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.1-preview0008), 4 days ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.0-preview0002](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.0-preview0002), 1 day ago) - Module template with build pipeline and examples, including DSC elements.
 - [ahpooch/lapssswp](https://github.com/ahpooch/lapssswp) ([v1.0.1](https://github.com/ahpooch/lapssswp/releases/tag/v1.0.1), 5 months ago) - Local Administrator Password Solution Self Service Web Portal
