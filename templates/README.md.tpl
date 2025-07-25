@@ -4,7 +4,7 @@
 <p align="left"><img src="https://raw.githubusercontent.com/ahpooch/ahpooch/main/github-metrics.svg" /></p>
 
 #### 👷 What I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
