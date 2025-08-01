@@ -5,7 +5,7 @@
 
 #### 👷 What I'm currently working on
 
-- [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) - This module contains DSC resources for deploying and configuring web servers and related components. (1 day ago)
+- [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) - This module contains DSC resources for deploying and configuring web servers and related components. (2 days ago)
 - [ahpooch/lapssswp](https://github.com/ahpooch/lapssswp) - Local Administrator Password Solution Self Service Web Portal (1 week ago)
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (1 week ago)
 - [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (2 weeks ago)
@@ -18,6 +18,6 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) ([v4.2.2-preview0001](https://github.com/dsccommunity/WebAdministrationDsc/releases/tag/v4.2.2-preview0001), 1 day ago) - This module contains DSC resources for deploying and configuring web servers and related components.
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.0-preview0002](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.0-preview0002), 2 weeks ago) - Module template with build pipeline and examples, including DSC elements.
 - [ahpooch/lapssswp](https://github.com/ahpooch/lapssswp) ([v1.0.1](https://github.com/ahpooch/lapssswp/releases/tag/v1.0.1), 5 months ago) - Local Administrator Password Solution Self Service Web Portal
-- [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) ([v4.2.1](https://github.com/dsccommunity/WebAdministrationDsc/releases/tag/v4.2.1), 8 months ago) - This module contains DSC resources for deploying and configuring web servers and related components.
