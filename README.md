@@ -5,10 +5,10 @@
 
 #### 👷 What I'm currently working on
 
-- [ahpooch/AdventOfCode_PowerShell](https://github.com/ahpooch/AdventOfCode_PowerShell) - Solutions for https://adventofcode.com/ in PowerShell. (5 days ago)
+- [ahpooch/AdventOfCode_PowerShell](https://github.com/ahpooch/AdventOfCode_PowerShell) - Solutions for https://adventofcode.com/ in PowerShell. (6 days ago)
 - [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) - This module contains DSC resources for deploying and configuring web servers and related components. (1 week ago)
-- [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (2 weeks ago)
-- [ahpooch/lapssswp](https://github.com/ahpooch/lapssswp) - Local Administrator Password Solution Self Service Web Portal (2 weeks ago)
+- [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (3 weeks ago)
+- [ahpooch/lapssswp](https://github.com/ahpooch/lapssswp) - Local Administrator Password Solution Self Service Web Portal (3 weeks ago)
 - [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (3 weeks ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (3 weeks ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (3 weeks ago)
