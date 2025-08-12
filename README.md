@@ -5,7 +5,8 @@
 
 #### 👷 What I'm currently working on
 
-- [ahpooch/AdventOfCode_PowerShell](https://github.com/ahpooch/AdventOfCode_PowerShell) - Solutions for https://adventofcode.com/ in PowerShell. (6 days ago)
+- [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (today)
+- [ahpooch/AdventOfCode_PowerShell](https://github.com/ahpooch/AdventOfCode_PowerShell) - Solutions for https://adventofcode.com/ in PowerShell. (1 week ago)
 - [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) - This module contains DSC resources for deploying and configuring web servers and related components. (1 week ago)
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (3 weeks ago)
 - [ahpooch/lapssswp](https://github.com/ahpooch/lapssswp) - Local Administrator Password Solution Self Service Web Portal (3 weeks ago)
@@ -13,7 +14,6 @@
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (3 weeks ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (3 weeks ago)
 - [ahpooch/DNSServerTools](https://github.com/ahpooch/DNSServerTools) -  (1 month ago)
-- [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (3 months ago)
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
