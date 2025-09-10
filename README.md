@@ -5,9 +5,9 @@
 
 #### 👷 What I'm currently working on
 
-- [ahpooch/PSMailKit](https://github.com/ahpooch/PSMailKit) - PSMailKit is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities. (4 days ago)
-- [ahpooch/binary-powershell-cmdlet-example](https://github.com/ahpooch/binary-powershell-cmdlet-example) -  (4 days ago)
-- [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (5 days ago)
+- [ahpooch/PSMailKit](https://github.com/ahpooch/PSMailKit) - PSMailKit is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities. (5 days ago)
+- [ahpooch/binary-powershell-cmdlet-example](https://github.com/ahpooch/binary-powershell-cmdlet-example) -  (5 days ago)
+- [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (6 days ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (3 weeks ago)
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (4 weeks ago)
 - [ahpooch/AdventOfCode_PowerShell](https://github.com/ahpooch/AdventOfCode_PowerShell) - Solutions for https://adventofcode.com/ in PowerShell. (1 month ago)
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.0-preview0005](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.0-preview0005), 3 days ago) - Module template with build pipeline and examples, including DSC elements.
-- [ahpooch/PSMailKit](https://github.com/ahpooch/PSMailKit) ([v0.1.1](https://github.com/ahpooch/PSMailKit/releases/tag/v0.1.1), 4 days ago) - PSMailKit is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities.
-- [ahpooch/binary-powershell-cmdlet-example](https://github.com/ahpooch/binary-powershell-cmdlet-example) ([v0.1.8](https://github.com/ahpooch/binary-powershell-cmdlet-example/releases/tag/v0.1.8), 5 days ago)
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.0-preview0005](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.0-preview0005), 4 days ago) - Module template with build pipeline and examples, including DSC elements.
+- [ahpooch/PSMailKit](https://github.com/ahpooch/PSMailKit) ([v0.1.1](https://github.com/ahpooch/PSMailKit/releases/tag/v0.1.1), 5 days ago) - PSMailKit is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities.
+- [ahpooch/binary-powershell-cmdlet-example](https://github.com/ahpooch/binary-powershell-cmdlet-example) ([v0.1.8](https://github.com/ahpooch/binary-powershell-cmdlet-example/releases/tag/v0.1.8), 6 days ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.1](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.1), 1 week ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) ([v4.2.2-preview0001](https://github.com/dsccommunity/WebAdministrationDsc/releases/tag/v4.2.2-preview0001), 1 month ago) - This module contains DSC resources for deploying and configuring web servers and related components.
