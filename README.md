@@ -12,7 +12,7 @@
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (1 month ago)
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (1 month ago)
 - [ahpooch/AdventOfCode_PowerShell](https://github.com/ahpooch/AdventOfCode_PowerShell) - Solutions for https://adventofcode.com/ in PowerShell. (1 month ago)
-- [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) - This module contains DSC resources for deploying and configuring web servers and related components. (1 month ago)
+- [dsccommunity/WebAdministrationDsc](https://github.com/dsccommunity/WebAdministrationDsc) - This module contains DSC resources for deploying and configuring web servers and related components. (2 months ago)
 - [ahpooch/lapssswp](https://github.com/ahpooch/lapssswp) - Local Administrator Password Solution Self Service Web Portal (2 months ago)
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (2 months ago)
 
