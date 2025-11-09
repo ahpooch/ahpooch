@@ -5,8 +5,8 @@
 
 #### 👷 What I'm currently working on
 
-- [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (3 days ago)
-- [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (4 days ago)
+- [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (4 days ago)
+- [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (5 days ago)
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) - Powershell module to assist in SCCM migration. (1 month ago)
 - [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities. (1 month ago)
 - [ahpooch/binary-powershell-cmdlet-example](https://github.com/ahpooch/binary-powershell-cmdlet-example) -  (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.2-preview0001](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.2-preview0001), 4 weeks ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
+- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.2-preview0001](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.2-preview0001), 1 month ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration/releases/tag/v1.0.2), 1 month ago) - Powershell module to assist in SCCM migration.
 - [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.MailTools/releases/tag/v1.0.2), 1 month ago) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities.
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.0-preview0005](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.0-preview0005), 2 months ago) - Module template with build pipeline and examples, including DSC elements.
