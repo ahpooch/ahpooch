@@ -5,7 +5,7 @@
 
 #### 👷 What I'm currently working on
 
-- [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (6 days ago)
+- [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (1 week ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (3 weeks ago)
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (1 month ago)
 - [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (1 month ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.2](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.2), 1 week ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
+- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.2](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.2), 2 weeks ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration/releases/tag/v1.0.2), 3 months ago) - Powershell module to assist in SCCM migration.
 - [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.MailTools/releases/tag/v1.0.2), 3 months ago) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities.
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.0-preview0005](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.0-preview0005), 3 months ago) - Module template with build pipeline and examples, including DSC elements.
