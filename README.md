@@ -5,6 +5,7 @@
 
 #### 👷 What I'm currently working on
 
+- [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (1 day ago)
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (1 week ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (3 weeks ago)
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (1 month ago)
@@ -14,7 +15,6 @@
 - [ahpooch/binary-powershell-cmdlet-example](https://github.com/ahpooch/binary-powershell-cmdlet-example) -  (3 months ago)
 - [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (3 months ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (4 months ago)
-- [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (4 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
