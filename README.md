@@ -5,7 +5,7 @@
 
 #### 👷 What I'm currently working on
 
-- [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (6 days ago)
+- [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (1 week ago)
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (2 weeks ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (1 month ago)
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (1 month ago)
