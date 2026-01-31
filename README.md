@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.1-preview0001](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.1-preview0001), 2 days ago) - Module template with build pipeline and examples, including DSC elements.
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.119.1](https://github.com/gaelcolas/Sampler/releases/tag/v0.119.1), 1 day ago) - Module template with build pipeline and examples, including DSC elements.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.9.0](https://github.com/gethomepage/homepage/releases/tag/v1.9.0), 1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.3](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.3), 1 week ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration/releases/tag/v1.0.2), 4 months ago) - Powershell module to assist in SCCM migration.
