@@ -14,7 +14,7 @@
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) - Powershell module to assist in SCCM migration. (5 months ago)
 - [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities. (5 months ago)
 - [ahpooch/binary-powershell-cmdlet-example](https://github.com/ahpooch/binary-powershell-cmdlet-example) -  (5 months ago)
-- [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (5 months ago)
+- [ahpooch/SCCM-Resources](https://github.com/ahpooch/SCCM-Resources) - Repository to collect and share resources like Scripts, Configuration Items, etc. (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
