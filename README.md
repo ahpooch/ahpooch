@@ -13,7 +13,7 @@
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (5 months ago)
 - [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (5 months ago)
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) - Powershell module to assist in SCCM migration. (6 months ago)
-- [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities. (6 months ago)
+- [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities. (7 months ago)
 - [ahpooch/binary-powershell-cmdlet-example](https://github.com/ahpooch/binary-powershell-cmdlet-example) -  (7 months ago)
 
 #### 🚀 Latest releases I've contributed to
