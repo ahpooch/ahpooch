@@ -5,6 +5,7 @@
 
 #### 👷 What I'm currently working on
 
+- [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (1 day ago)
 - [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (1 month ago)
 - [ahpooch/Metro](https://github.com/ahpooch/Metro) -  (1 month ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (3 months ago)
@@ -14,7 +15,6 @@
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (7 months ago)
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (8 months ago)
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) - Powershell module to assist in SCCM migration. (9 months ago)
-- [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities. (10 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
