@@ -5,7 +5,7 @@
 
 #### 👷 What I'm currently working on
 
-- [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (3 days ago)
+- [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (4 days ago)
 - [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (1 month ago)
 - [ahpooch/Metro](https://github.com/ahpooch/Metro) -  (2 months ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (3 months ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.120.0](https://github.com/gaelcolas/Sampler/releases/tag/v0.120.0), 1 day ago) - Module template with build pipeline and examples, including DSC elements.
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.120.0](https://github.com/gaelcolas/Sampler/releases/tag/v0.120.0), 2 days ago) - Module template with build pipeline and examples, including DSC elements.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v1.13.2](https://github.com/gethomepage/homepage/releases/tag/v1.13.2), 1 month ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.3](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.3), 5 months ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration/releases/tag/v1.0.2), 10 months ago) - Powershell module to assist in SCCM migration.
