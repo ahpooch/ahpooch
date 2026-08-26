@@ -5,7 +5,8 @@
 
 #### 👷 What I'm currently working on
 
-- [ahpooch/Metro](https://github.com/ahpooch/Metro) -  (2 weeks ago)
+- [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (today)
+- [ahpooch/Metro](https://github.com/ahpooch/Metro) -  (3 weeks ago)
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (1 month ago)
 - [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (2 months ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (4 months ago)
@@ -14,12 +15,11 @@
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (8 months ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (9 months ago)
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (9 months ago)
-- [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) - Powershell module to assist in SCCM migration. (11 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.1.2](https://github.com/gethomepage/homepage/releases/tag/v2.1.2), 4 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.120.1](https://github.com/gaelcolas/Sampler/releases/tag/v0.120.1), 2 weeks ago) - Module template with build pipeline and examples, including DSC elements.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.1.2](https://github.com/gethomepage/homepage/releases/tag/v2.1.2), 5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.120.1](https://github.com/gaelcolas/Sampler/releases/tag/v0.120.1), 3 weeks ago) - Module template with build pipeline and examples, including DSC elements.
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.3](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.3), 7 months ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration/releases/tag/v1.0.2), 11 months ago) - Powershell module to assist in SCCM migration.
 - [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.MailTools/releases/tag/v1.0.2), 11 months ago) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities.
