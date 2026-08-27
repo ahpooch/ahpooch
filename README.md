@@ -5,7 +5,7 @@
 
 #### 👷 What I'm currently working on
 
-- [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (today)
+- [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (1 day ago)
 - [ahpooch/Metro](https://github.com/ahpooch/Metro) -  (3 weeks ago)
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (1 month ago)
 - [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (2 months ago)
@@ -18,7 +18,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.1.2](https://github.com/gethomepage/homepage/releases/tag/v2.1.2), 5 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.1.2](https://github.com/gethomepage/homepage/releases/tag/v2.1.2), 6 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.120.1](https://github.com/gaelcolas/Sampler/releases/tag/v0.120.1), 3 weeks ago) - Module template with build pipeline and examples, including DSC elements.
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.3](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.3), 7 months ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration/releases/tag/v1.0.2), 11 months ago) - Powershell module to assist in SCCM migration.
