@@ -5,10 +5,10 @@
 
 #### 👷 What I'm currently working on
 
-- [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (2 days ago)
+- [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (today)
+- [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (3 days ago)
 - [ahpooch/Metro](https://github.com/ahpooch/Metro) -  (3 weeks ago)
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (1 month ago)
-- [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (2 months ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (5 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (7 months ago)
 - [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (8 months ago)
