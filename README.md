@@ -8,7 +8,7 @@
 - [ahpooch/Altar](https://github.com/ahpooch/Altar) -  (1 week ago)
 - [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox (2 weeks ago)
 - [ahpooch/Metro](https://github.com/ahpooch/Metro) -  (1 month ago)
-- [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (1 month ago)
+- [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (2 months ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (5 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (8 months ago)
 - [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (8 months ago)
@@ -18,8 +18,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.121.0-preview0001](https://github.com/gaelcolas/Sampler/releases/tag/v0.121.0-preview0001), 6 days ago) - Module template with build pipeline and examples, including DSC elements.
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.2.0](https://github.com/gethomepage/homepage/releases/tag/v2.2.0), 1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.3.0](https://github.com/gethomepage/homepage/releases/tag/v2.3.0), 1 day ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.121.0-preview0001](https://github.com/gaelcolas/Sampler/releases/tag/v0.121.0-preview0001), 1 week ago) - Module template with build pipeline and examples, including DSC elements.
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.3](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.3), 7 months ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration/releases/tag/v1.0.2), 11 months ago) - Powershell module to assist in SCCM migration.
 - [Neon-Cyber-Crutches/N2C.MailTools](https://github.com/Neon-Cyber-Crutches/N2C.MailTools) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.MailTools/releases/tag/v1.0.2), 1 year ago) - N2C.MailTools is a PowerShell module designed for secure and advanced email operations, replacing outdated cmdlets with modern, feature-rich alternatives. Built on the MailKit and MimeKit libraries, it ensures reliable SMTP communication with support for client certificates, authentication flexibility, and extended protocol capabilities.
