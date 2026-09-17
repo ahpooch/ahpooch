@@ -11,14 +11,14 @@
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (2 months ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (5 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (8 months ago)
-- [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (8 months ago)
+- [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (9 months ago)
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (9 months ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (9 months ago)
 - [ahpooch/PSFixMyDNSDynamicRecordPermissionProblem](https://github.com/ahpooch/PSFixMyDNSDynamicRecordPermissionProblem) -  (10 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.3.0](https://github.com/gethomepage/homepage/releases/tag/v2.3.0), 1 week ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.121.0-preview0001](https://github.com/gaelcolas/Sampler/releases/tag/v0.121.0-preview0001), 1 week ago) - Module template with build pipeline and examples, including DSC elements.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.4.0](https://github.com/gethomepage/homepage/releases/tag/v2.4.0), today) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.121.0-preview0001](https://github.com/gaelcolas/Sampler/releases/tag/v0.121.0-preview0001), 2 weeks ago) - Module template with build pipeline and examples, including DSC elements.
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.3](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.3), 8 months ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
 - [Neon-Cyber-Crutches/N2C.SCCM.Migration](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration) ([v1.0.2](https://github.com/Neon-Cyber-Crutches/N2C.SCCM.Migration/releases/tag/v1.0.2), 1 year ago) - Powershell module to assist in SCCM migration.
