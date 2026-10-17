@@ -12,13 +12,13 @@
 - [ahpooch/boilerplates](https://github.com/ahpooch/boilerplates) - Personal template collection inspired by @ChristianLempa and others (3 months ago)
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) - Module template with build pipeline and examples, including DSC elements. (6 months ago)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (9 months ago)
-- [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (9 months ago)
+- [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (10 months ago)
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (10 months ago)
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (10 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.5.0](https://github.com/gethomepage/homepage/releases/tag/v2.5.0), 6 days ago) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) ([v2.6.0](https://github.com/gethomepage/homepage/releases/tag/v2.6.0), today) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Neon-Cyber-Crutches/N2C.GuacAdmin](https://github.com/Neon-Cyber-Crutches/N2C.GuacAdmin) ([v1.0.1](https://github.com/Neon-Cyber-Crutches/N2C.GuacAdmin/releases/tag/v1.0.1), 1 week ago) - PowerShell module for administering a deployed Apache Guacamole instance: its configuration (users, connections, connection groups, sharing profiles, permissions, history, schemas, extensions) and its runtime state (active sessions, tunnels).  Targets the Guacamole REST API and the Guacamole protocol over WebSocket tunnels.
 - [gaelcolas/Sampler](https://github.com/gaelcolas/Sampler) ([v0.121.0-preview0001](https://github.com/gaelcolas/Sampler/releases/tag/v0.121.0-preview0001), 1 month ago) - Module template with build pipeline and examples, including DSC elements.
 - [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) ([v3.0.3](https://github.com/dsccommunity/DnsServerDsc/releases/tag/v3.0.3), 9 months ago) - This module contains DSC resources for the management and configuration of Windows Server DNS Server.
