@@ -14,7 +14,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (10 months ago)
 - [ahpooch/FuncGetRosUpdateAge](https://github.com/ahpooch/FuncGetRosUpdateAge) - Mikrotik RouterOS script for obtaining information about the age of the last relevant update on the specified update channel. (11 months ago)
 - [ahpooch/Install-WindowsTerminal](https://github.com/ahpooch/Install-WindowsTerminal) - Easily install the new Windows Terminal or Windows Terminal Preview on Windows Server 2022 and newer. (11 months ago)
-- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (11 months ago)
+- [dsccommunity/DnsServerDsc](https://github.com/dsccommunity/DnsServerDsc) - This module contains DSC resources for the management and configuration of Windows Server DNS Server. (1 year ago)
 
 #### 🚀 Latest releases I've contributed to
 
